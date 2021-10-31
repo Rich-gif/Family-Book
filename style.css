@@ -1,0 +1,37 @@
+div{
+    background: linear-gradient(90deg, rgba(255, 138, 216), rgba(252, 255, 46) 35%, rgba(47, 240, 214) 100%);
+    padding-top:50px;
+    width:800px;
+    height:600px;
+    margin:auto;
+
+}
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    background-color:#E4F9F5 ;
+}
+
+img{
+    width: 200px; 
+    height:250px;
+    margin-top:30px;
+
+}
+
+h1{
+    font-size: 5rem;
+    font-family: 'Allura', cursive;
+    text-shadow: 1px 1px;
+}
+p{
+
+    font-size: 1.5rem;
+    display: inline-block;
+    position:relative;
+    left: 40%;
+    top:80%;
+    padding:0;
+}
+  
